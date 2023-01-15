@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ROI_App",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

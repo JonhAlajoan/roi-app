@@ -1,0 +1,8 @@
+{
+  "name": "ROI_App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "1ea54c71"
+}
